@@ -1,0 +1,34 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.menu{ 
+    background-color:rgb(203, 203, 206);
+    padding: 1;
+}
+
+.listaMenu{ 
+    display: flex;
+    justify-content: flex-end;
+}
+
+.carruselStyle{ 
+    height: 600px
+}
+
+.row2{ 
+    padding: 40px 0px 0px 160px;
+}
+
+.h1{ 
+    color: rgb(0, 0, 112);
+    padding: 0px;
+}
+.textbanner{ 
+    color: rgb(2, 53, 2);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px;
+    
+}
